@@ -1,0 +1,6 @@
+{
+  "name": "NoorFlix",
+  "description": "Premium Mini Drama Streaming Platform with vertical cinematic storytelling, episode unlock, VIP membership, and seamless video streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
